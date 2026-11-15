@@ -1,0 +1,1 @@
+Answer the question using only the supplied document packet. Select the best option and give a concise justification grounded in the documents. When the packet does not establish a unique applicable answer, use the corresponding conflict or insufficient-information option.

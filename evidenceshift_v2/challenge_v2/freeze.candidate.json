@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-11-15T02:00:36.642021+00:00",
+  "sha256": {
+    "challenge.py": "ebe0658690eff554a0a5435531ccb8ca6a5ceec914d0ad6fd15df63f6932fd6f",
+    "build_dataset.py": "e9d0c8b43761f791b2c2e5f18371e9ad34e2b3e3113aa96cec377885fab2d8d6",
+    "PROTOCOL.md": "cb0a94ca60e213bca57e523f19b549dfa6f4e8b72088c7228cb7c67346184e80",
+    "REVIEW_RUBRIC.md": "0bbba2054527b0f16b85c4151fe012f4c48c8b0ea5a869e8b061fb42d6286ccf",
+    "../evidenceshift.py": "d0f4880f2f1709206fd9eff99a51bb5fcaa585824d175d908032af667a578a98",
+    "../config.gemini.json": "153bc95e2b8cb7fab44bd0c7f2d68eb39de89ba9529739fa40dd48dbf215ace2",
+    "data/answer_key.jsonl": "a92e0dca73fc102803572032a20ab9552fb0c69d70ce71e1146560e21ac830fc",
+    "data/dev.jsonl": "75f5be6db93fb38a15cabed06361def834a9319cebc83d6b19acbe39c4e5b03b",
+    "data/test.jsonl": "9fce5fd9d9f8dee59962e0fbd3cb7d47f74756f97249cdd4f48a327ae50f9cac",
+    "prompts/baseline.txt": "257e33deab2457c12d478e863d08037d21bd8035d30d50cbe0e5a54b0869ebf1",
+    "prompts/evidence_checks.txt": "13fbb6a06bebf3a9efa0df987148f94fd6cbeab2612ef515195fe792316ea715",
+    "prompts/format.txt": "8ef3c8ff663e475110a9e94fa18633b06fe2b8b2682bb8d41fadce9b03ec0c1f",
+    "prompts/generic_control.txt": "3279fd3f1527106fbf7551657a19038817b6e5441fe001e9f4b5d0b9e534d716"
+  },
+  "status": "Candidate version; not publicly preregistered or human-approved."
+}

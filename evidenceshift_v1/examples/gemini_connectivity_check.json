@@ -1,0 +1,10 @@
+{
+  "purpose": "Development connectivity check only; excluded from experiment statistics",
+  "case_id": "9fb3889ec025",
+  "response": {
+    "raw_output": "",
+    "transport_error": "HTTP_404",
+    "attempts": 1,
+    "latency_seconds": 5.97022899600006
+  }
+}

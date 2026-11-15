@@ -1,0 +1,14 @@
+{
+  "created_utc": "2026-11-14T20:00:42.860313+00:00",
+  "sha256": {
+    "evidenceshift.py": "929549d4e88fdf39b619198ac21a80b0be361e7070db66f07b4ed01efba69e76",
+    "make_dataset.py": "3eaf406448c03a91f2525d08ae922763e986c208760a9044b8874d4d6b279649",
+    "docs/PROTOCOL.md": "30e40e2a8be67b2858b6fb232fa35413bd7b5d9c0552a755cc35c28e36eba22c",
+    "data/dev.jsonl": "9d7ec7b76beb9913ad6926068230f1bb5a7c5e3188b122c59d9b31583535b171",
+    "data/test.jsonl": "c24fbaf35ba6ffa30dfca7835ca1c0ec04335b096f7b5166df8c1e7c54ea0101",
+    "prompts/baseline.txt": "833b5a548fb23d1ac4546ed896062c980996aa2dadac91cb0a81e785d2339aaa",
+    "prompts/evidence_checks.txt": "b7f2b40214980d7b7ab96aa2319b05ff11f7433bb9a78793bf64867c9feb54e4",
+    "prompts/format.txt": "8ef3c8ff663e475110a9e94fa18633b06fe2b8b2682bb8d41fadce9b03ec0c1f"
+  },
+  "status": "Local protocol freeze; not a public preregistration or human review approval."
+}

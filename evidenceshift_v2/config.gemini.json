@@ -1,0 +1,12 @@
+{
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+  "model": "gemini-3.8-flash",
+  "api_key_env": "EVIDENCESHIFT_API_KEY",
+  "request_parameters": {"max_tokens": 4096, "temperature": 0, "reasoning_effort": "low", "response_format": {"type": "json_object"}},
+  "timeout_seconds": 60,
+  "max_attempts": 3,
+  "requests_per_minute": 10,
+  "backoff_initial_seconds": 5,
+  "max_retry_wait_seconds": 120,
+  "max_consecutive_errors": 3
+}

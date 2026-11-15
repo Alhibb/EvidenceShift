@@ -1,0 +1,1 @@
+Answer the question using only the supplied document packet. Select the best option and provide a concise evidence-based justification. If the evidence cannot establish a unique answer, select the appropriate conflict or insufficient-evidence option.

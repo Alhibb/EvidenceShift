@@ -1,0 +1,11 @@
+# Environment & secrets
+.env
+.venv/
+__pycache__/
+*.pyc
+config.local.json
+*private_key.json
+
+# Temporary & system files
+Thumbs.db
+.DS_Store
